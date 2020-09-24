@@ -108,6 +108,16 @@
       "sha256": "b274bfed1bf19cc1e620b403a513300a5dd3fb065fd8621029891bde762f9e19",
       "filesize": 16908983
     },
+    "轩辕剑外传枫之舞": {
+      "identifier": "轩辕剑外传枫之舞",
+      "name": {
+        "zh-Hans": "轩辕剑外传枫之舞"
+      },
+      "executable": "swda",
+      "type": "RPG",
+      "sha256": "bcee10991992d90165a64e3e329ac1174ef8c46ce765eebb54dad3274dd67edb",
+      "filesize": 17552166
+    },
     "疯狂医院": {
       "identifier": "疯狂医院",
       "name": {
@@ -120,6 +130,26 @@
       "coverFilename": "cover.png",
       "sha256": "5abedef930e8049081e18d0ce3ea9eec64245ba8642dabece37177dd3a0f81be",
       "filesize": 3304944
+    },
+    "大航海1": {
+      "identifier": "大航海1",
+      "name": {
+        "zh-Hans": "大航海1"
+      },
+      "executable": "koei.com",
+      "type": "RPG",
+      "sha256": "bc881d8a78d34988ec97fc9075e5842ceaf599849a13f0814690df938aceab23",
+      "filesize": 887589
+    },
+    "大航海2": {
+      "identifier": "大航海2",
+      "name": {
+        "zh-Hans": "大航海2"
+      },
+      "executable": "play.bat",
+      "type": "RPG",
+      "sha256": "4939a3e69df22e3564c919b421b6d05c56329b3371e1157287b97025fc1b03b8",
+      "filesize": 3045719
     },
     "大航海时代": {
       "identifier": "大航海时代",
@@ -216,48 +246,6 @@
       "sha256": "55323167806ba70f1e31a17e412a3a09af097269735e00118eba08c964bde585",
       "filesize": 4811999
     },
-    "爆笑三国志": {
-      "identifier": "爆笑三国志",
-      "name": {
-        "zh-Hans": "爆笑三国志"
-      },
-      "executable": "play.bat",
-      "type": "PUZ",
-      "sha256": "3aa5715d51e93a4b9958b96784233badbafa584f218e56ad4c653ee36667ed39",
-      "filesize": 5378668
-    },
-    "爆笑水浒传": {
-      "identifier": "爆笑水浒传",
-      "name": {
-        "zh-Hans": "爆笑水浒传"
-      },
-      "executable": "model",
-      "type": "PUZ",
-      "sha256": "822d0fcc74d6e9245f40792b9a599fc9a52971c0dd53602100399a9a703214c3",
-      "img": "CD/BXSHZ.cue",
-      "filesize": 95541626
-    },
-    "楚留香传奇": {
-      "identifier": "楚留香传奇",
-      "name": {
-        "zh-Hans": "楚留香传奇"
-      },
-      "executable": "play.bat",
-      "type": "AVG",
-      "sha256": "1a65e9d6bc0489c7bfeba14c6fbf28fba02b1e451422eef810376edb895ba63c",
-      "filesize": 5200753
-    },
-    "大唐英雄传": {
-      "identifier": "大唐英雄传",
-      "name": {
-        "zh-Hans": "大唐英雄传"
-      },
-      "executable": "play.bat",
-      "type": "RPG",
-      "sha256": "4e3fd381f8257ae30738df2ec8db1ec5a5a462a57d7188247fff254045850bfb",
-      "cdrom": "no",
-      "filesize": 9429597
-    },
     "古墓丽影": {
       "identifier": "古墓丽影",
       "name": {
@@ -268,36 +256,6 @@
       "sha256": "08da92845d80bd3262751c1c9aee8163ee742872fd78b29e1b8bb0aebe4b0f4a",
       "cdrom": "no",
       "filesize": 34422403
-    },
-    "鉴赏家": {
-      "identifier": "鉴赏家",
-      "name": {
-        "zh-Hans": "鉴赏家"
-      },
-      "executable": "virtuoso.exe",
-      "type": "ACT",
-      "sha256": "92c3325a2d3932c367e36e97eff06b8be7f45ca8ef8af1d7bdd1fa549db5f630",
-      "filesize": 8454225
-    },
-    "江湖任我行": {
-      "identifier": "江湖任我行",
-      "name": {
-        "zh-Hans": "江湖任我行"
-      },
-      "executable": "stalker.exe",
-      "type": "PUZ",
-      "sha256": "8c61d13a9374250917ea78d43a3a60d28f481bd94df0657a37ddafa03670478d",
-      "filesize": 40516733
-    },
-    "江湖外传": {
-      "identifier": "江湖外传",
-      "name": {
-        "zh-Hans": "江湖外传"
-      },
-      "executable": "GAME.BAT",
-      "type": "RPG",
-      "sha256": "cdd87e8c8f7542aacadc164a6ca510fd980f19e7734cb6b877e00400b941837c",
-      "filesize": 11388713
     },
     "金瓶梅之偷情宝鉴": {
       "identifier": "金瓶梅之偷情宝鉴",
@@ -320,202 +278,46 @@
       "filesize": 52917839,
       "coverFilename": "cover.jpg"
     },
-    "红楼梦之十二金钗": {
-      "identifier": "红楼梦之十二金钗",
+    "玉蒲团": {
+      "identifier": "玉蒲团",
       "name": {
-        "zh-Hans": "红楼梦之十二金钗"
+        "zh-Hans": "玉蒲团"
       },
       "executable": "play.bat",
       "type": "HGA",
-      "sha256": "fc56cfb5f4eddd6209b4e581b766eccc467e59bd843310bf3477590e06c300cb",
-      "img": "HLM.cue",
-      "coverFilename": "cover.jpg",
-      "filesize": 409866498
+      "sha256": "56b95b34ade190042669c5f4e55bf25d6b59f0e822deb32e66e544c7804d6330",
+      "filesize": 19612917
     },
-    "聊斋志异": {
-      "identifier": "聊斋志异",
+    "大唐英雄传": {
+      "identifier": "大唐英雄传",
       "name": {
-        "zh-Hans": "聊斋志异"
+        "zh-Hans": "大唐英雄传"
       },
       "executable": "play.bat",
       "type": "RPG",
-      "sha256": "54ee10ea5a019e7ea2d08758eddeb454a6b270910146744926dd206fe079b1ec",
-      "filesize": 3408575
-    },
-    "猛鬼街": {
-      "identifier": "猛鬼街",
-      "name": {
-        "zh-Hans": "猛鬼街"
-      },
-      "executable": "dream.exe",
-      "type": "ACT",
-      "sha256": "e922fbe591cdce53e878153d49bbac4d146767f1ed1890f3fcd53fd98b30a286",
-      "filesize": 325209
-    },
-    "美少女梦工厂": {
-      "identifier": "美少女梦工厂",
-      "name": {
-        "zh-Hans": "美少女梦工厂"
-      },
-      "executable": "pm.bat",
-      "type": "SIM",
-      "sha256": "0e2f4ad6016dd450f3c1faaf93244a60f9737ccb33d4a90f51e75a7385b2eebf",
-      "floppy": "no",
-      "filesize": 5855184
-    },
-    "鹿鼎记": {
-      "identifier": "鹿鼎记",
-      "name": {
-        "zh-Hans": "鹿鼎记"
-      },
-      "executable": "play.bat",
-      "type": "RPG",
-      "sha256": "a532867691897c9e87a4ee90c4a3239787f5d87b93199d0827730a90b2729eb6",
-      "filesize": 7388352
-    },
-    "灵剑传奇": {
-      "identifier": "灵剑传奇",
-      "name": {
-        "zh-Hans": "灵剑传奇"
-      },
-      "executable": "sword",
-      "type": "RPG",
-      "sha256": "84daf763d547769affbb2a40ea5ca238e93442012b6b5ed7a5a74752a7ae818e",
-      "filesize": 17093340
-    },
-    "魔兽争霸1": {
-      "identifier": "魔兽争霸1",
-      "name": {
-        "zh-Hans": "魔兽争霸1"
-      },
-      "executable": "war.exe",
-      "type": "RTS",
-      "sha256": "d580f4eabd0f9c0245af9bd4a1668bb8f27e27aa649c3493c02ed525af309854",
-      "filesize": 5453961
-    },
-    "魔兽争霸2": {
-      "identifier": "魔兽争霸2",
-      "name": {
-        "zh-Hans": "魔兽争霸2"
-      },
-      "executable": "war2",
-      "type": "RTS",
-      "sha256": "c0e3f5cc96dd5b64a32bacdc3cc283e44dffea3a85ad0576bf47b600a15a3285",
-      "filesize": 14319841
-    },
-    "魔兽争霸2中文版": {
-      "identifier": "魔兽争霸2中文版",
-      "name": {
-        "zh-Hans": "魔兽争霸2中文版"
-      },
-      "executable": "war2",
-      "type": "RTS",
-      "sha256": "44ad53815cff22ca4b6c6d8c1833e4dec1322e5ef301cd0786f1d58b17687e60",
+      "sha256": "4e3fd381f8257ae30738df2ec8db1ec5a5a462a57d7188247fff254045850bfb",
       "cdrom": "no",
-      "filesize": 79561927
+      "filesize": 9429597
     },
-    "女神学院": {
-      "identifier": "女神学院",
+    "鬼马小英雄": {
+      "identifier": "鬼马小英雄",
       "name": {
-        "zh-Hans": "女神学院"
+        "zh-Hans": "鬼马小英雄"
       },
-      "executable": "play.bat",
-      "type": "SIM",
-      "sha256": "581fcd90497b92e1fee10397d09834909fb9a32d0ca0d361744a2d862953f15c",
-      "floppy": "b",
-      "filesize": 17735101
-    },
-    "青涩的果实": {
-      "identifier": "青涩的果实",
-      "name": {
-        "zh-Hans": "青涩的果实"
-      },
-      "executable": "marry",
-      "type": "PUZ",
-      "sha256": "0509de4a541663a5030e671ed1be30b66549fc1f5eb7980763d59aea206be707",
-      "filesize": 12815343
-    },
-    "射雕英雄传": {
-      "identifier": "射雕英雄传",
-      "name": {
-        "zh-Hans": "射雕英雄传"
-      },
-      "executable": "play.bat",
-      "type": "AVG",
-      "sha256": "184a7493a648e6b1f2f598a7334c8ebc7f6e8823fc5860b109354aa7085120f6",
-      "filesize": 8514061
-    },
-    "石器时代": {
-      "identifier": "石器时代",
-      "name": {
-        "zh-Hans": "石器时代"
-      },
-      "executable": "stone.bat",
-      "type": "PUZ",
-      "sha256": "2a6cd2578b10e2db0bb451da8b7444fe52f931ce028e02362ebfff39ef9563e6",
-      "filesize": 404962
-    },
-    "神雕侠侣": {
-      "identifier": "神雕侠侣",
-      "name": {
-        "zh-Hans": "神雕侠侣"
-      },
-      "executable": "eagle",
+      "executable": "monk.exe",
       "type": "RPG",
-      "sha256": "f2df6cdae7c70dc3ab7dc88b60c98b53c3aa7878b20499cfe375dcc5bf911aa3",
-      "img": "IMG/EAGLE.CUE",
-      "coverFilename": "cover.jpg",
-      "filesize": 92608250
+      "sha256": "2fdb4e45fc3bfba20315e48194aaaf76cbbc3e2a406d46867614ec370b70f9e9",
+      "filesize": 8448633
     },
-    "天龙八部": {
-      "identifier": "天龙八部",
+    "绝代双骄": {
+      "identifier": "绝代双骄",
       "name": {
-        "zh-Hans": "天龙八部"
+        "zh-Hans": "绝代双骄"
       },
-      "executable": "play.bat",
+      "executable": "playx.bat",
       "type": "RPG",
-      "sha256": "fe82cd2d5c769c8138def9c5a58802834408873490d054eb9bc7a7eaf72867fa",
-      "filesize": 125191405
-    },
-    "同级生1": {
-      "identifier": "同级生1",
-      "name": {
-        "zh-Hans": "同级生1"
-      },
-      "executable": "nanpa.bat",
-      "type": "HGA",
-      "sha256": "545d98cdbe4535a84a053e2c875428e18a523626166a5b2ab870e55ee8528521",
-      "filesize": 11719310
-    },
-    "蜀山剑侠传之紫菁双剑录": {
-      "identifier": "蜀山剑侠传之紫菁双剑录",
-      "name": {
-        "zh-Hans": "蜀山剑侠传之紫菁双剑录"
-      },
-      "executable": "play.bat",
-      "type": "RPG",
-      "sha256": "e3b5a66ba445ed841f07f350bc9e69f624c7c9ba830778891a81449e7171b806",
-      "filesize": 16107224
-    },
-    "乌龙院": {
-      "identifier": "乌龙院",
-      "name": {
-        "zh-Hans": "乌龙院"
-      },
-      "executable": "play.bat",
-      "type": "RPG",
-      "sha256": "7b34fea471c32d81bb2c0e0ba028806bd80eba6b2679b59ea4b32fa3b7da6b1d",
-      "filesize": 29742029
-    },
-    "武林奇侠传": {
-      "identifier": "武林奇侠传",
-      "name": {
-        "zh-Hans": "武林奇侠传"
-      },
-      "executable": "v1",
-      "type": "RPG",
-      "sha256": "91a5408af6065c6cee6a5669f8affad1d40fd34076256b2d8f5d8ff919946ce6",
-      "filesize": 3846056
+      "sha256": "329ce75775d0b4a71c59ec25d8a5662b553e1428fb74a96814b9673cb272627b",
+      "filesize": 12792748
     },
     "侠客英雄传": {
       "identifier": "侠客英雄传",
@@ -537,45 +339,26 @@
       "sha256": "31859911daf08159c12528f91cdbba0c461bedf2e03dd254f8f35ffe4a4f7354",
       "filesize": 263202944
     },
-    "下级生(日)": {
-      "identifier": "下级生(日)",
+    "武林奇侠传": {
+      "identifier": "武林奇侠传",
       "name": {
-        "zh-Hans": "下级生(日)"
+        "zh-Hans": "武林奇侠传"
+      },
+      "executable": "v1",
+      "type": "RPG",
+      "sha256": "91a5408af6065c6cee6a5669f8affad1d40fd34076256b2d8f5d8ff919946ce6",
+      "filesize": 3846056
+    },
+    "星月奇缘": {
+      "identifier": "星月奇缘",
+      "name": {
+        "zh-Hans": "星月奇缘"
       },
       "executable": "play.bat",
-      "type": "HGA",
-      "sha256": "960b1aded4c95ab776d958c99f4dce6b35cd7b3dcb065b61102396b5f6529cef",
-      "filesize": 19526933
-    },
-    "夏日物语": {
-      "identifier": "夏日物语",
-      "name": {
-        "zh-Hans": "夏日物语"
-      },
-      "executable": "summer.bat",
-      "type": "AVG",
-      "sha256": "d752e8db93d5365bccda3c2e2b40027879e59f18b8de229becca551f44087c7c",
-      "filesize": 1837048
-    },
-    "仙境传奇1": {
-      "identifier": "仙境传奇1",
-      "name": {
-        "zh-Hans": "仙境传奇1"
-      },
-      "executable": "FTE",
       "type": "RPG",
-      "sha256": "6e33981c5447c56fb330c27b2a580a8b83b3d13b152341c2c9fa701d64d25d06",
-      "filesize": 682531
-    },
-    "仙境传奇2亡者之庁": {
-      "identifier": "仙境传奇2亡者之庁",
-      "name": {
-        "zh-Hans": "仙境传奇2亡者之庁"
-      },
-      "executable": "dosbox.bat",
-      "type": "RPG",
-      "sha256": "98d01797cc7f59bb5f22de8a1165d1a5615c9811be11302059d092d9d3bc1608",
-      "filesize": 312238288
+      "sha256": "16eff0f8c7dc4a58f77c58c5a984b601e8337c2bc9012c8a34ad0eb8198e423f",
+      "img": "IMG/TTN_MOON.cue",
+      "filesize": 175648729
     },
     "笑傲江湖": {
       "identifier": "笑傲江湖",
@@ -586,194 +369,6 @@
       "type": "RPG",
       "sha256": "69dab897164fc82efff5a1c58f5c347890b19932322fef3d3db225d215506737",
       "filesize": 8248295
-    },
-    "杏林也疯狂(主题医院台版)": {
-      "identifier": "杏林也疯狂(主题医院台版)",
-      "name": {
-        "zh-Hans": "杏林也疯狂(主题医院台版)"
-      },
-      "executable": "play.bat",
-      "type": "SIM",
-      "sha256": "40f029d14b8fd368ae100877ea8389d3e66477b21ce4ef292a08f3b15e0155e0",
-      "filesize": 27416048
-    },
-    "轩辕剑外传枫之舞": {
-      "identifier": "轩辕剑外传枫之舞",
-      "name": {
-        "zh-Hans": "轩辕剑外传枫之舞"
-      },
-      "executable": "swda",
-      "type": "RPG",
-      "sha256": "bcee10991992d90165a64e3e329ac1174ef8c46ce765eebb54dad3274dd67edb",
-      "filesize": 17552166
-    },
-    "医生也疯狂": {
-      "identifier": "医生也疯狂",
-      "name": {
-        "zh-Hans": "医生也疯狂"
-      },
-      "executable": "LND",
-      "type": "SIM",
-      "sha256": "50649c0e4afed0e00b4f22150951b1f2c3de648caff1d16d1fe389ba4de9cf47",
-      "filesize": 458871
-    },
-    "医生也疯狂2": {
-      "identifier": "医生也疯狂2",
-      "name": {
-        "zh-Hans": "医生也疯狂2"
-      },
-      "executable": "ld2.exe",
-      "type": "SIM",
-      "sha256": "202be634b42c7bbc2ef1209e43d70f3fd07f93cfacee286dc3f6e5b6b5f0a010",
-      "filesize": 1554210
-    },
-    "英雄传说1": {
-      "identifier": "英雄传说1",
-      "name": {
-        "zh-Hans": "英雄传说1"
-      },
-      "executable": "play.bat",
-      "type": "RPG",
-      "sha256": "dad56f881f2ddd341479e0983e7e15fa07da2ac43b94c98df6dd4a88f36a7a45",
-      "img": "CD/ED1.cue",
-      "filesize": 62839149
-    },
-    "英雄传说2": {
-      "identifier": "英雄传说2",
-      "name": {
-        "zh-Hans": "英雄传说2"
-      },
-      "executable": "play.bat",
-      "type": "RPG",
-      "sha256": "9df1f2f49e88386dbfd9003d2047ced204bd42c9d2f9c3d32b850ed6e9cf0ca0",
-      "img": "CD/ED2.cue",
-      "filesize": 71721264
-    },
-    "英雄传说3": {
-      "identifier": "英雄传说3",
-      "name": {
-        "zh-Hans": "英雄传说3"
-      },
-      "executable": "play.bat",
-      "type": "RPG",
-      "sha256": "fecd28f7dde983911e4618827f095c2e3619ecf41d9405a007d1710280c258f5",
-      "img": "CD/ED3.cue",
-      "filesize": 91285292
-    },
-    "英雄传说4": {
-      "identifier": "英雄传说4",
-      "name": {
-        "zh-Hans": "英雄传说4"
-      },
-      "executable": "play.bat",
-      "type": "RPG",
-      "sha256": "43d3a1676bb74bdb05ee1be015419267155528107d34406182dd1c4075f5dd7c",
-      "img": "CD/ED4.cue",
-      "filesize": 75526138
-    },
-    "勇者斗恶龙": {
-      "identifier": "勇者斗恶龙",
-      "name": {
-        "zh-Hans": "勇者斗恶龙"
-      },
-      "executable": "play.bat",
-      "type": "RPG",
-      "sha256": "3a2885bb075277c3e444d18a9fae791234a8340c69badd312f2180de130cd462",
-      "filesize": 113887
-    },
-    "勇者斗恶龙2": {
-      "identifier": "勇者斗恶龙2",
-      "name": {
-        "zh-Hans": "勇者斗恶龙2"
-      },
-      "executable": "play.bat",
-      "type": "RPG",
-      "sha256": "74388f930a85baf26aaa2293ccce909682776d6081a1357f3abfd68f5a1a31ee",
-      "filesize": 212110
-    },
-    "勇者斗恶龙3": {
-      "identifier": "勇者斗恶龙3",
-      "name": {
-        "zh-Hans": "勇者斗恶龙3"
-      },
-      "executable": "dq3",
-      "type": "RPG",
-      "sha256": "304843455bab1b24f33afd44b87203b76f959d69b9772cee51c53cca987d6046",
-      "filesize": 2398170
-    },
-    "游轮凶案": {
-      "identifier": "游轮凶案",
-      "name": {
-        "zh-Hans": "游轮凶案"
-      },
-      "executable": "cruise.exe",
-      "type": "AVG",
-      "sha256": "916111a160c47afd69cae5240db7c094b2dcc1dda68d48ecd55755311d4c8965",
-      "filesize": 10585278
-    },
-    "玉蒲团": {
-      "identifier": "玉蒲团",
-      "name": {
-        "zh-Hans": "玉蒲团"
-      },
-      "executable": "play.bat",
-      "type": "HGA",
-      "sha256": "56b95b34ade190042669c5f4e55bf25d6b59f0e822deb32e66e544c7804d6330",
-      "filesize": 19612917
-    },
-    "诸神的黄昏": {
-      "identifier": "诸神的黄昏",
-      "name": {
-        "zh-Hans": "诸神的黄昏"
-      },
-      "executable": "dusk.bat",
-      "type": "RPG",
-      "sha256": "9201295646dd9e04f0a711fa48b5f920bc1a18b3f11368c8f8b956a005792b0a",
-      "filesize": 963035
-    },
-    "转校生": {
-      "identifier": "转校生",
-      "name": {
-        "zh-Hans": "转校生"
-      },
-      "executable": "play.exe",
-      "type": "HGA",
-      "sha256": "abcb903b9eca528f6414d705db5100e79e56730a7bf3eec39a15e8ad6ee209f7",
-      "coverFilename": "cover.jpg",
-      "filesize": 17923036
-    },
-    "转校生-天使们的午后": {
-      "identifier": "转校生-天使们的午后",
-      "name": {
-        "zh-Hans": "转校生-天使们的午后"
-      },
-      "executable": "play.bat",
-      "type": "HGA",
-      "sha256": "f4e2c3c4f393bcd1f997e56dce5cbb198bb190614ca1991a878d8aaea33d9bd2",
-      "coverFilename": "cover.jpg",
-      "filesize": 4985765
-    },
-    "转校生-天使们的午后2": {
-      "identifier": "转校生-天使们的午后2",
-      "name": {
-        "zh-Hans": "转校生-天使们的午后2"
-      },
-      "executable": "play.bat",
-      "type": "HGA",
-      "sha256": "6a948beff25c47a2aa056e8adc04f5a412cbc9612bc7c30cf4ff1d12eb847856",
-      "coverFilename": "cover.jpg",
-      "filesize": 5118549
-    },
-    "捉鬼敢死队2": {
-      "identifier": "捉鬼敢死队2",
-      "name": {
-        "zh-Hans": "捉鬼敢死队2"
-      },
-      "executable": "gb2",
-      "type": "ACT",
-      "sha256": "fa0fb85798805f590bbd46c10327010e8658a2ac0ee32835de27e81ce5e60816",
-      "coverFilename": "cover.jpg",
-      "filesize": 1082753
     },
     "阿猫阿狗": {
       "identifier": "阿猫阿狗",
